@@ -8,3 +8,4 @@ For my project with Marble AI, I successfully created a dashboard page mirroring
 ### Dashboard-page
 
 
+![dashboard](https://github.com/harshau9/Marble-asgmt/assets/31920143/70322cc1-6740-45f2-baf5-8c1cbe167544)
